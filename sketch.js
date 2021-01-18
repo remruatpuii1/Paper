@@ -8,7 +8,7 @@ var b1,b2,b3,bucket,paper,bucketImg,paperImg;
 
 function preload(){
 
-  bucketImg=loadImage("sprites/dustbingreen.png");
+  bucketImg=loadImage("dustbingreen.png");
 
 }
 
